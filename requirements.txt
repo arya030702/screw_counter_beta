@@ -1,13 +1,13 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.7.1+cpu
-torchvision==0.8.2+cpu
-opencv-python==4.5.1.48
-Pillow==8.0.1
-pandas==1.2.1
+torch==2.1.1+cpu
+torchvision==0.16.1+cpu
+opencv-python==4.8.1.78
+Pillow==10.1.0
+pandas==2.0.1
 streamlit==1.22.0
 streamlit-webrtc==0.47.1
-matplotlib==3.3.3
-tqdm==4.56.0
+matplotlib==3.7.1
+tqdm==4.66.1
 PyYAML==5.3.1
-seaborn==0.11.1
-ultralytics
+seaborn==0.12.2
+ultralytics==8.0.225
