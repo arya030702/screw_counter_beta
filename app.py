@@ -18,6 +18,7 @@ st.set_page_config(
 )
 
 st.title('Deteksi dan Hitung Sekrup dengan YOLOv5')
+st.title('Kelompok 4 PCD- Pagi B')
 
 #region Functions
 # --------------------------------------------
